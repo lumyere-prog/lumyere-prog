@@ -1,4 +1,4 @@
-# `LUMYERE.`
+# `LUMIERE.`
 
 `[ DEVELOPER IN PROGRESS ]` 
 
