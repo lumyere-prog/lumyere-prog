@@ -1,13 +1,10 @@
-(./lumiere-banner.png)
+![LUMIERE — Developer in Progress](./lumiere-banner.png)
+
 # `LUMIERE`
 
 `[ DEVELOPER IN PROGRESS ]`
 
 ---
-`[ DEVELOPER IN PROGRESS ]`
-
----
-
 ### ⌁ TECH STACK
 
 **• LANGUAGES**
