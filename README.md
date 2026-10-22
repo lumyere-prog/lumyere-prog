@@ -1,8 +1,6 @@
 # `LUMYERE.`
 
-**ザ // CODE FROM THE UNDERGROUND**
-
-`[ DEVELOPER IN PROGRESS ]` `//` `DIGITAL STREET CULTURE`
+`[ DEVELOPER IN PROGRESS ]` 
 
 ---
 
@@ -14,11 +12,6 @@ Building things, breaking things, learning along the way.
 
 Turning ideas into something real — one commit at a time.
 
-### // CURRENT OPERATIONS
-
-- `01` — AntabayQC
-- `02` — Exploring Node.js & Express.js
-- `03` — Experimental 2D games
 ### ⌁ TECH STACK
 
 **// LANGUAGES**
