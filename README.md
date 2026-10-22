@@ -2,7 +2,6 @@
 
 # `LUMIERE`
 
----
 ### ⌁ TECH STACK
 
 **• LANGUAGES**
