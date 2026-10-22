@@ -2,8 +2,6 @@
 
 # `LUMIERE`
 
-`[ DEVELOPER IN PROGRESS ]`
-
 ---
 ### ⌁ TECH STACK
 
