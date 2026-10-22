@@ -1,4 +1,4 @@
-![LUMIERE — Developer in Progress](./lumiere-banner.png)
+![LUMIERE — Developer in Progress](./github-header-banner.png)
 
 # `LUMIERE`
 
