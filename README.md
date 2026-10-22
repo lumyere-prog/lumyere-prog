@@ -1,5 +1,9 @@
+(./lumiere-banner.png)
 # `LUMIERE`
 
+`[ DEVELOPER IN PROGRESS ]`
+
+---
 `[ DEVELOPER IN PROGRESS ]`
 
 ---
