@@ -4,14 +4,6 @@
 
 ---
 
-### † ABOUT
-
-Developer in progress.
-
-Building things, breaking things, learning along the way.
-
-Turning ideas into something real — one commit at a time.
-
 ### ⌁ TECH STACK
 
 **// LANGUAGES**
@@ -61,6 +53,14 @@ Currently building, experimenting, and figuring things out.
 More coming soon.
 
 ---
+
+### † ABOUT
+
+Developer in progress.
+
+Building things, breaking things, learning along the way.
+
+Turning ideas into something real — one commit at a time.
 
 `LUMS / ザ`
 
