@@ -44,22 +44,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google AI API](https://img.shields.io/badge/Google_AI_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### ‡ PROJECTS
-
-Currently building, experimenting, and figuring things out.
-
-More coming soon.
-
----
-
-### † ABOUT
-
-Developer in progress.
-
-Building things, breaking things, learning along the way.
-
-Turning ideas into something real — one commit at a time.
-
-`LUMS / ザ`
-
-**NO FLASH. JUST PRESENCE.**
